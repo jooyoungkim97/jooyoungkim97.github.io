@@ -1,15 +1,14 @@
 title:              Clean Blog
-email:              your-email@example.com
+email:              2007kjy@naver.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://jooyoungkim97.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:   
+github_username:    jooyoung97
+facebook_username:  김주영
+instagram_username: zzoo00__
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
